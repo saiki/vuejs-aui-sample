@@ -1,0 +1,540 @@
+yarn run v0.17.10
+$ node build/dev-server.js 
+ DONE  Compiled successfully in 4063ms15:56:10
+
+> Listening at http://localhost:8080
+
+ WAIT  Compiling...15:56:28
+
+ DONE  Compiled successfully in 98ms15:56:29
+
+ WAIT  Compiling...15:56:34
+
+ DONE  Compiled successfully in 56ms15:56:34
+
+ WAIT  Compiling...15:56:54
+
+ DONE  Compiled successfully in 59ms15:56:54
+
+ WAIT  Compiling...15:57:47
+
+ DONE  Compiled successfully in 121ms15:57:47
+
+ WAIT  Compiling...15:58:06
+
+ DONE  Compiled successfully in 70ms15:58:06
+
+ WAIT  Compiling...15:59:04
+
+ DONE  Compiled successfully in 68ms15:59:05
+
+ WAIT  Compiling...15:59:33
+
+ DONE  Compiled successfully in 70ms15:59:33
+
+ WAIT  Compiling...15:59:38
+
+ DONE  Compiled successfully in 112ms15:59:38
+
+ WAIT  Compiling...15:59:46
+
+ DONE  Compiled successfully in 60ms15:59:46
+
+ WAIT  Compiling...16:02:08
+
+ DONE  Compiled successfully in 65ms16:02:08
+
+ WAIT  Compiling...16:02:23
+
+ DONE  Compiled successfully in 66ms16:02:23
+
+ WAIT  Compiling...16:02:33
+
+ DONE  Compiled successfully in 64ms16:02:33
+
+ WAIT  Compiling...16:03:11
+
+ DONE  Compiled successfully in 66ms16:03:11
+
+ WAIT  Compiling...16:03:35
+
+ DONE  Compiled successfully in 63ms16:03:35
+
+ WAIT  Compiling...16:03:49
+
+ DONE  Compiled successfully in 57ms16:03:49
+
+ WAIT  Compiling...16:04:59
+
+ DONE  Compiled successfully in 68ms16:04:59
+
+ WAIT  Compiling...16:05:00
+
+ DONE  Compiled successfully in 265ms16:05:00
+
+ WAIT  Compiling...16:05:16
+
+ DONE  Compiled successfully in 89ms16:05:16
+
+ WAIT  Compiling...16:05:43
+
+ DONE  Compiled successfully in 75ms16:05:43
+
+ WAIT  Compiling...16:06:34
+
+ DONE  Compiled successfully in 65ms16:06:34
+
+ WAIT  Compiling...16:06:35
+
+ DONE  Compiled successfully in 275ms16:06:36
+
+ WAIT  Compiling...16:07:33
+
+ DONE  Compiled successfully in 66ms16:07:33
+
+ WAIT  Compiling...16:08:04
+
+ DONE  Compiled successfully in 42ms16:08:04
+
+ WAIT  Compiling...16:08:47
+
+ DONE  Compiled successfully in 69ms16:08:48
+
+ WAIT  Compiling...16:14:42
+
+ DONE  Compiled successfully in 38ms16:14:42
+
+ WAIT  Compiling...16:15:06
+
+ DONE  Compiled successfully in 60ms16:15:06
+
+ WAIT  Compiling...16:15:22
+
+ DONE  Compiled successfully in 115ms16:15:22
+
+ WAIT  Compiling...16:15:41
+
+ DONE  Compiled successfully in 61ms16:15:41
+
+ WAIT  Compiling...16:16:33
+
+ DONE  Compiled successfully in 263ms16:16:33
+
+ WAIT  Compiling...16:32:49
+
+ DONE  Compiled successfully in 360ms16:32:49
+
+ WAIT  Compiling...16:33:20
+
+ DONE  Compiled successfully in 226ms16:33:20
+
+ WAIT  Compiling...16:33:58
+
+ DONE  Compiled successfully in 136ms16:33:59
+
+ WAIT  Compiling...16:34:27
+
+ DONE  Compiled successfully in 152ms16:34:27
+
+ DONE  Compiled successfully in 76ms16:34:51
+
+ WAIT  Compiling...16:35:06
+
+ DONE  Compiled successfully in 65ms16:35:06
+
+ WAIT  Compiling...16:36:46
+
+ DONE  Compiled successfully in 62ms16:36:46
+
+ WAIT  Compiling...16:37:16
+
+ DONE  Compiled successfully in 247ms16:37:16
+
+ WAIT  Compiling...16:38:11
+
+ DONE  Compiled successfully in 198ms16:38:12
+
+ WAIT  Compiling...16:39:29
+
+ DONE  Compiled successfully in 224ms16:39:29
+
+ DONE  Compiled successfully in 106ms16:39:43
+
+ WAIT  Compiling...16:39:58
+
+ DONE  Compiled successfully in 151ms16:39:58
+
+ WAIT  Compiling...16:40:21
+
+ DONE  Compiled successfully in 141ms16:40:22
+
+ WAIT  Compiling...16:43:53
+
+ DONE  Compiled successfully in 134ms16:43:54
+
+ WAIT  Compiling...16:44:49
+
+ DONE  Compiled successfully in 123ms16:44:49
+
+ WAIT  Compiling...16:45:07
+
+ DONE  Compiled successfully in 112ms16:45:07
+
+ WAIT  Compiling...16:45:11
+
+ DONE  Compiled successfully in 163ms16:45:12
+
+ WAIT  Compiling...16:45:17
+
+ DONE  Compiled successfully in 105ms16:45:18
+
+ WAIT  Compiling...16:45:24
+
+ DONE  Compiled successfully in 112ms16:45:24
+
+ WAIT  Compiling...16:45:26
+
+ DONE  Compiled successfully in 88ms16:45:27
+
+ WAIT  Compiling...16:45:32
+
+ DONE  Compiled successfully in 56ms16:45:32
+
+ ERROR  Failed to compile with 1 errors16:47:45
+
+ error  in ./src/components/AppHeader.vue
+
+
+  Error compiling template:
+  
+  <header role="banner">
+    <nav class="aui-header aui-dropdown2-trigger-group" role="navigation" data-aui-responsive="true">
+      <div class="aui-header-primary">
+        <h1 id="logo" class="aui-header-logo aui-header-logo-aui"><a href="http://example.com/"><span class="aui-header-logo-device">AUI</span></a></h1>
+      </div>
+      <div class="aui-header-secondary">
+        <ul class="aui-nav __skate" resolved="">
+          <li>
+            <router-link to="/settings" title="Settings">
+              <span class="aui-icon aui-icon-small aui-iconfont-configure">Settings</span>
+            </a>
+          </li>
+          <li>
+            <a href="#dropdown2-header8" aria-owns="dropdown2-header8" aria-haspopup="true" class="aui-dropdown2-trigger-arrowless aui-dropdown2-trigger" aria-controls="dropdown2-header8" resolved="" aria-expanded="false">
+              <span class="aui-icon aui-icon-small aui-iconfont-help">Help</span>
+            </a>
+            <div class="aui-dropdown2 aui-style-default aui-dropdown2-in-header aui-layer" id="dropdown2-header8" style="display: none; top: 40px; min-width: 160px; left: 1213px; " aria-hidden="true" resolved="">
+              <div class="aui-dropdown2-section">
+                <ul>
+                  <li><a href="http://example.com/">Online help</a></li>
+                  <li><a href="http://example.com/">Keyboard shortcuts</a></li>
+                  <li><a href="http://example.com/">About</a></li>
+                  <li><a href="http://example.com/">Version</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  
+  - tag <router-link> has no matching end tag.
+
+
+ @ ./src/components/AppHeader.vue 5:2-176
+ @ ./~/babel-loader/lib!./~/vue-loader/lib/selector.js?type=script&index=0!./src/App.vue
+ @ ./src/App.vue
+ @ ./src/main.js
+ @ multi ./build/dev-client ./src/main.js
+
+ WAIT  Compiling...16:47:53
+
+ DONE  Compiled successfully in 128ms16:47:54
+
+ WAIT  Compiling...16:51:17
+
+ ERROR  Failed to compile with 1 errors16:51:18
+
+This relative module was not found:
+
+* ./components/Settings in ./src/router/index.js
+ WAIT  Compiling...16:51:30
+
+ DONE  Compiled successfully in 135ms16:51:31
+
+ WAIT  Compiling...16:52:19
+
+ DONE  Compiled successfully in 63ms16:52:19
+
+ WAIT  Compiling...16:52:31
+
+ DONE  Compiled successfully in 80ms16:52:31
+
+ WAIT  Compiling...17:04:24
+
+ DONE  Compiled successfully in 78ms17:04:24
+
+ WAIT  Compiling...17:06:21
+
+ DONE  Compiled successfully in 31ms17:06:21
+
+ WAIT  Compiling...17:06:22
+
+ DONE  Compiled successfully in 63ms17:06:22
+
+ WAIT  Compiling...17:06:27
+
+ DONE  Compiled successfully in 281ms17:06:28
+
+ WAIT  Compiling...17:06:31
+
+ DONE  Compiled successfully in 16ms17:06:31
+
+ WAIT  Compiling...17:09:07
+
+ DONE  Compiled successfully in 208ms17:09:07
+
+ WAIT  Compiling...17:10:37
+
+ ERROR  Failed to compile with 1 errors17:10:38
+
+ error  in ./src/components/AppHeader.vue
+
+
+  Error compiling template:
+  
+    <header role="banner">
+      <nav class="aui-header aui-dropdown2-trigger-group" role="navigation" data-aui-responsive="true">
+        <div class="aui-header-primary">
+          <h1 id="logo" class="aui-header-logo aui-header-logo-aui">
+  					<a href="http://example.com/"><span class="aui-header-logo-device">AUI</span></a>
+  				</h1>
+          <ul class="aui-nav __skate" resolved="">
+  					<li>
+  						<span>{{msg}}<span>
+  					</li>
+  				</ul>
+        </div>
+        <div class="aui-header-secondary">
+          <ul class="aui-nav __skate" resolved="">
+            <li>
+              <router-link to="/settings" title="Settings">
+                <span class="aui-icon aui-icon-small aui-iconfont-configure">Settings</span>
+              </router-link>
+            </li>
+  					<li>
+  						<span
+  					</li>
+            <li>
+              <a href="#dropdown2-header8" aria-owns="dropdown2-header8" aria-haspopup="true" class="aui-dropdown2-trigger-arrowless aui-dropdown2-trigger" aria-controls="dropdown2-header8" resolved="" aria-expanded="false">
+                <span class="aui-icon aui-icon-small aui-iconfont-help">Help</span>
+              </a>
+              <div class="aui-dropdown2 aui-style-default aui-dropdown2-in-header aui-layer" id="dropdown2-header8" style="display: none; top: 40px; min-width: 160px; left: 1213px; " aria-hidden="true" resolved="">
+                <div class="aui-dropdown2-section">
+                  <ul>
+                    <li><a href="http://example.com/">Online help</a></li>
+                    <li><a href="http://example.com/">Keyboard shortcuts</a></li>
+                    <li><a href="http://example.com/">About</a></li>
+                    <li><a href="http://example.com/">Version</a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+  
+  - tag <span> has no matching end tag.
+  - tag <span> has no matching end tag.
+
+
+ @ ./src/components/AppHeader.vue 5:2-176
+ @ ./~/babel-loader/lib!./~/vue-loader/lib/selector.js?type=script&index=0!./src/App.vue
+ @ ./src/App.vue
+ @ ./src/main.js
+ @ multi ./build/dev-client ./src/main.js
+
+ WAIT  Compiling...17:10:50
+
+ ERROR  Failed to compile with 1 errors17:10:50
+
+ error  in ./src/components/AppHeader.vue
+
+
+  Error compiling template:
+  
+    <header role="banner">
+      <nav class="aui-header aui-dropdown2-trigger-group" role="navigation" data-aui-responsive="true">
+        <div class="aui-header-primary">
+          <h1 id="logo" class="aui-header-logo aui-header-logo-aui">
+  					<a href="http://example.com/"><span class="aui-header-logo-device">AUI</span></a>
+  				</h1>
+          <ul class="aui-nav __skate" resolved="">
+  					<li>
+  						<span>{{msg}}<span>
+  					</li>
+  				</ul>
+        </div>
+        <div class="aui-header-secondary">
+          <ul class="aui-nav __skate" resolved="">
+            <li>
+              <router-link to="/settings" title="Settings">
+                <span class="aui-icon aui-icon-small aui-iconfont-configure">Settings</span>
+              </router-link>
+            </li>
+            <li>
+              <a href="#dropdown2-header8" aria-owns="dropdown2-header8" aria-haspopup="true" class="aui-dropdown2-trigger-arrowless aui-dropdown2-trigger" aria-controls="dropdown2-header8" resolved="" aria-expanded="false">
+                <span class="aui-icon aui-icon-small aui-iconfont-help">Help</span>
+              </a>
+              <div class="aui-dropdown2 aui-style-default aui-dropdown2-in-header aui-layer" id="dropdown2-header8" style="display: none; top: 40px; min-width: 160px; left: 1213px; " aria-hidden="true" resolved="">
+                <div class="aui-dropdown2-section">
+                  <ul>
+                    <li><a href="http://example.com/">Online help</a></li>
+                    <li><a href="http://example.com/">Keyboard shortcuts</a></li>
+                    <li><a href="http://example.com/">About</a></li>
+                    <li><a href="http://example.com/">Version</a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+  
+  - tag <span> has no matching end tag.
+  - tag <span> has no matching end tag.
+
+
+ @ ./src/components/AppHeader.vue 5:2-176
+ @ ./~/babel-loader/lib!./~/vue-loader/lib/selector.js?type=script&index=0!./src/App.vue
+ @ ./src/App.vue
+ @ ./src/main.js
+ @ multi ./build/dev-client ./src/main.js
+
+ WAIT  Compiling...17:11:02
+
+ DONE  Compiled successfully in 94ms17:11:02
+
+ WAIT  Compiling...17:11:05
+
+ ERROR  Failed to compile with 1 errors17:11:05
+
+ error  in ./src/components/AppHeader.vue
+
+
+  Error compiling template:
+  
+    <header role="banner">
+      <nav class="aui-header aui-dropdown2-trigger-group" role="navigation" data-aui-responsive="true">
+        <div class="aui-header-primary">
+          <h1 id="logo" class="aui-header-logo aui-header-logo-aui">
+  					<a href="http://example.com/"><span class="aui-header-logo-device">AUI</span></a>
+  				</h1>
+          <ul class="aui-nav __skate" resolved="">
+  					<li>
+  						<span>{{msg}}<span>
+  					</li>
+  				</ul>
+        </div>
+        <div class="aui-header-secondary">
+          <ul class="aui-nav __skate" resolved="">
+            <li>
+              <router-link to="/settings" title="Settings">
+                <span class="aui-icon aui-icon-small aui-iconfont-configure">Settings</span>
+              </router-link>
+            </li>
+            <li>
+              <a href="#dropdown2-header8" aria-owns="dropdown2-header8" aria-haspopup="true" class="aui-dropdown2-trigger-arrowless aui-dropdown2-trigger" aria-controls="dropdown2-header8" resolved="" aria-expanded="false">
+                <span class="aui-icon aui-icon-small aui-iconfont-help">Help</span>
+              </a>
+              <div class="aui-dropdown2 aui-style-default aui-dropdown2-in-header aui-layer" id="dropdown2-header8" style="display: none; top: 40px; min-width: 160px; left: 1213px; " aria-hidden="true" resolved="">
+                <div class="aui-dropdown2-section">
+                  <ul>
+                    <li><a href="http://example.com/">Online help</a></li>
+                    <li><a href="http://example.com/">Keyboard shortcuts</a></li>
+                    <li><a href="http://example.com/">About</a></li>
+                    <li><a href="http://example.com/">Version</a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+  
+  - tag <span> has no matching end tag.
+  - tag <span> has no matching end tag.
+
+
+ @ ./src/components/AppHeader.vue 5:2-176
+ @ ./~/babel-loader/lib!./~/vue-loader/lib/selector.js?type=script&index=0!./src/App.vue
+ @ ./src/App.vue
+ @ ./src/main.js
+ @ multi ./build/dev-client ./src/main.js
+
+ WAIT  Compiling...17:11:21
+
+ DONE  Compiled successfully in 114ms17:11:21
+
+ WAIT  Compiling...17:11:49
+
+ DONE  Compiled successfully in 141ms17:11:49
+
+ WAIT  Compiling...17:12:04
+
+ DONE  Compiled successfully in 93ms17:12:04
+
+ WAIT  Compiling...17:13:11
+
+ DONE  Compiled successfully in 131ms17:13:11
+
+ DONE  Compiled successfully in 203ms17:14:26
+
+ WAIT  Compiling...17:15:08
+
+ DONE  Compiled successfully in 214ms17:15:08
+
+ WAIT  Compiling...17:15:28
+
+ DONE  Compiled successfully in 140ms17:15:28
+
+ WAIT  Compiling...17:15:46
+
+ DONE  Compiled successfully in 93ms17:15:47
+
+ WAIT  Compiling...17:17:26
+
+ DONE  Compiled successfully in 124ms17:17:26
+
+ WAIT  Compiling...17:18:17
+
+ DONE  Compiled successfully in 148ms17:18:18
+
+ WAIT  Compiling...17:18:41
+
+ DONE  Compiled successfully in 104ms17:18:41
+
+ WAIT  Compiling...17:24:36
+
+ DONE  Compiled successfully in 124ms17:24:37
+
+ WAIT  Compiling...17:25:34
+
+ DONE  Compiled successfully in 111ms17:25:34
+
+ WAIT  Compiling...17:25:49
+
+ DONE  Compiled successfully in 120ms17:25:49
+
+ WAIT  Compiling...17:26:29
+
+ DONE  Compiled successfully in 102ms17:26:29
+
+ WAIT  Compiling...17:29:04
+
+ DONE  Compiled successfully in 79ms17:29:04
+

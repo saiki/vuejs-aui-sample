@@ -1,0 +1,15 @@
+#app {
+	margin: 0;
+	padding: 0;
+}
+
+#contents-wrapper {
+	padding-top: 41px;
+}
+
+#app-header {
+  width: 100%;
+  clear: both;
+  float: left;
+}
+
